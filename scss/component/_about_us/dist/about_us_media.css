@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+  .about_us::before {
+    display: none;
+  }
+  .about_us .right {
+    width: 100%;
+  }
+  .about_us .right .inform_bar {
+    padding: 0;
+  }
+}
+
+/*# sourceMappingURL=about_us_media.css.map */

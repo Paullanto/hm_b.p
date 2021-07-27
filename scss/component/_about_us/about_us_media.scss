@@ -1,0 +1,17 @@
+@media (max-width: 767px) {
+
+    .about_us{
+        &::before{
+            display: none;
+        }
+            
+        .right{
+            width: 100%;
+
+            .inform_bar{
+                padding: 0;
+            } 
+        }
+    }
+}
+    

@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+  .services .item {
+    width: 100%;
+  }
+  .services .item:nth-child(even) {
+    padding: 0 0 50px 0;
+  }
+  .services .item:nth-child(odd) {
+    padding: 0 0 50px 0;
+  }
+  .services .item:last-child {
+    padding-bottom: 0;
+  }
+}
+/*# sourceMappingURL=services_media.css.map */

@@ -1,0 +1,6 @@
+@mixin button($butt_padding, $font-s) {
+    padding: $butt_padding;
+    font-size: $font-s;
+    
+    @extend %header_nav_item;
+}
